@@ -1,6 +1,6 @@
 # Medical-Services-App
 
-A Flutter project for medical services of different categories. You can add service name, service description and location of the service.
+ The Flutter project for medical services of different categories. You can add service name, service description and location of the service.
 
 ## About App
 
